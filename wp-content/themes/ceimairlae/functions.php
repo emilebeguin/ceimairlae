@@ -119,4 +119,15 @@ function create_venue_cpt() {
 }
 add_action( 'init', 'create_venue_cpt', 0 );
 
+/* Upgrade the Author Role */
+function author_level_up() {
+    $role = get_role(  'author' );
+    
+    // add a set  of new capabilities
+    $role->add_cap(  'edit_pages' );
+    $role->add_cap(  'edit_published_pages' );
+    $role->add_cap(  'publish_pages' );
+}
+add_action( 'admin_init', 'author_level_up');
+
 ?>
