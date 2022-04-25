@@ -30,7 +30,7 @@
                 wp_reset_query(); ?>
         </nav>
 
-        <div class="footer clearfix">
+        <div class="footer">
 
             <div class="rights">
                 <p>Copyright © 2022 Émile Beguin.</p>

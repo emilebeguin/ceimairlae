@@ -40,7 +40,7 @@ function create_recommendation_cpt() {
 		'labels' => $labels,
 		'menu_icon' => 'dashicons-location',
 		'supports' => array('title', 'editor', 'excerpt', 'thumbnail', 'comments', 'custom-fields'),
-		'taxonomies' => array(),
+		'taxonomies' => array('category'),
 		'public' => true,
 		'show_ui' => true,
 		'show_in_menu' => true,
