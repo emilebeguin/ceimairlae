@@ -1,0 +1,20 @@
+/*
+Theme Name: Ceimairlae
+Author: Émile Beguin
+Author URI: https://emilebeguin.eu
+Description: Ce thème a été développé pour le site de notre mariage 💞.
+Requires at least: 5.9
+Tested up to: 5.9
+Requires PHP: 5.6
+Version: 0.7
+License: Creative commons CC-BY-SA
+Text Domain: ceimairlae
+Tags: wedding, custom
+
+*/
+
+/*
+ * Font smoothing.
+ * This is a niche setting that will not be available via Global Styles.
+ * https://github.com/WordPress/gutenberg/issues/35934
+ */

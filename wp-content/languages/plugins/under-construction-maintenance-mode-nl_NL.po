@@ -1,0 +1,445 @@
+# Translation of Plugins - Under Construction, Coming Soon &amp; Maintenance Mode - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Under Construction, Coming Soon &amp; Maintenance Mode - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-05 08:41:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Under Construction, Coming Soon &amp; Maintenance Mode - Stable (latest release)\n"
+
+#: classes/plugin-meta.php:168
+msgid "Never show again"
+msgstr "Laat niet meer zien"
+
+#: classes/plugin-meta.php:167
+msgid "Maybe Later"
+msgstr "Misschien later"
+
+#: classes/plugin-meta.php:166
+msgid "I've already left a review"
+msgstr "Ik heb al een beoordeling gegeven"
+
+#: classes/plugin-meta.php:165
+msgid "Sure! I'd love to!"
+msgstr "Zeker! Doe ik graag!"
+
+#: classes/plugin-meta.php:163
+msgid "We hope you've enjoyed using Under Construction & Maintenance Mode! Would you consider leaving us a review on WordPress.org?"
+msgstr "Hopelijk maak je met plezier gebruik van Under Construction & Maintenance Mode! Wil je misschien overwegen om een beoordeling te plaatsen op WordPress.org?"
+
+#: classes/plugin-meta.php:162
+msgid "Leave A Review?"
+msgstr "Een beoordeling achterlaten?"
+
+#: classes/plugin-meta.php:69
+msgid "%1$s Settings %2$s | %3$s Customize %4$s"
+msgstr "%1$s instellingen %2$s | %3$s aanpassen %4$s"
+
+#: classes/plugin-meta.php:47
+msgid "Rate"
+msgstr "Waardering"
+
+#: classes/plugin-meta.php:44
+msgid "Vote!"
+msgstr "Stem!"
+
+#: under-construction-maintenance-mode.php:410
+msgid "Under Construction mode Enabled"
+msgstr "Onder constructie modus inschakeld"
+
+#: classes/ucmm-wpbrigade-settings-api.php:609
+msgid "Related Posts Thumbnails"
+msgstr "Gerelateerde berichten met thumbnails"
+
+#: classes/ucmm-wpbrigade-settings-api.php:604
+msgid "Social Sharing never been easy without social share Buttons."
+msgstr "Delen via sociale media was nooit eenvoudiger zonder deel knoppen."
+
+#: classes/ucmm-wpbrigade-settings-api.php:595
+msgid "Customize your login screen"
+msgstr "Pas je login scherm aan"
+
+#: classes/ucmm-wpbrigade-settings-api.php:591
+msgid "Recommended Plugins"
+msgstr "Aanbevolen plugins"
+
+#: classes/ucmm-wpbrigade-settings-api.php:585
+msgid "Rate on WordPress.org"
+msgstr "Geef je waardering op WordPress.org"
+
+#: classes/ucmm-wpbrigade-settings-api.php:581
+msgid "Share on Facebook"
+msgstr "Deel op Facebook"
+
+#: classes/ucmm-wpbrigade-settings-api.php:581
+#: classes/ucmm-wpbrigade-settings-api.php:599
+msgid "Share with your facebook friends about this awesome plugin."
+msgstr "Deel met je facebook vrienden over deze geweldige plugin."
+
+#: classes/ucmm-wpbrigade-settings-api.php:578
+msgid "Share on Twitter"
+msgstr "Deel op Twitter"
+
+#: classes/ucmm-wpbrigade-settings-api.php:578
+msgid "Post to Twitter Now"
+msgstr "Plaats nu op Twitter"
+
+#: classes/ucmm-wpbrigade-settings-api.php:575
+msgid "Spread the Word"
+msgstr "Vertel het verder"
+
+#: classes/ucmm-wpbrigade-settings-api.php:415
+msgid "Choose File"
+msgstr "Kies bestand"
+
+#: classes/ucmm-wpbrigade-setup.php:230
+msgid "Download Log File"
+msgstr "Download logbestand"
+
+#: classes/ucmm-wpbrigade-setup.php:224
+msgid "Free support is available on the %1$s plugin support forums%2$s."
+msgstr "Gratis ondersteuning is beschikbaar op de %1$s ondersteuningsforums voor plugins%2$s."
+
+#: classes/ucmm-wpbrigade-setup.php:191
+msgid "Under Construction: Settings"
+msgstr "Onder constructie: instellingen"
+
+#: classes/ucmm-wpbrigade-setup.php:101
+msgid "Choose the roles to disable under construction mode for "
+msgstr "Kies de rollen waarvoor onder constructie moet worden uitgezet "
+
+#: classes/ucmm-wpbrigade-setup.php:100
+msgid "Disable Mode For:"
+msgstr "Modus uitschakelen voor:"
+
+#: classes/ucmm-wpbrigade-setup.php:94
+msgid "Activate:"
+msgstr "Activeer:"
+
+#: classes/ucmm-wpbrigade-setup.php:83
+msgid "%3$s%3$s Note: Scheduling maintenance from customizer is the primary setting. This option will not work if you have enabled the scheduled maintenance mode. %3$s If you want to use the default maintenance (this option), please deactivate the maintenance schedule from %1$s customizer%2$s and set this option again."
+msgstr "%3$s%3$s Opgelet: plannen van onderhoud via de customizer is de standaard instelling. Deze optie werkt echter niet als je de 'geplande onderhoudsmodus' hebt aangezet. %3$s Als je de standaard onderhoudsoptie (deze optie) wilt gebruiken, deactiveer dan het onderhoudsschema van %1$s customizer%2$s en zet deze optie opnieuw."
+
+#: classes/ucmm-wpbrigade-setup.php:79
+msgid "Check the field to activate the maintenance mode."
+msgstr "Zet dit veld 'aan' om de onderhoudsmodus te activeren."
+
+#: classes/ucmm-wpbrigade-setup.php:50
+msgid "Under Construction page is customizable through %1$sWordPress Customizer%2$s."
+msgstr "Onder constructie pagina kun je aanpassen via %1$sWordPress customizer%2$s."
+
+#: classes/ucmm-wpbrigade-setup.php:41
+msgid "Help"
+msgstr "Help"
+
+#: classes/ucmm-wpbrigade-setup.php:40
+msgid "Customizer"
+msgstr "Customizer"
+
+#: classes/ucmm-wpbrigade-setup.php:38 classes/ucmm-wpbrigade-setup.php:49
+msgid "Settings"
+msgstr "Instellingen"
+
+#: classes/customizer.php:568
+msgid "\"Time Counter\" and \"Redirect Message\""
+msgstr "\"Tijd teller\" en \"Omleiding bericht\""
+
+#: classes/customizer.php:567
+msgid "Color"
+msgstr "Kleur"
+
+#: classes/customizer.php:551
+msgid "End Maintenance Mode At"
+msgstr "Beëindig de onderhoudsmodus om"
+
+#: classes/customizer.php:536 classes/customizer.php:552
+msgid "WordPress Time Zone : "
+msgstr "WordPress tijdzone: "
+
+#: classes/customizer.php:535
+msgid "Start Maintenance Mode From"
+msgstr "Start de onderhoudsmodus van"
+
+#: classes/customizer.php:518
+msgid "Show Maintenance Schedule"
+msgstr "Laat het onderhoud tijdschema zien"
+
+#: classes/customizer.php:505
+msgid "UCMM Start and End schedule"
+msgstr "UCMM start en einde planning"
+
+#: classes/customizer.php:500
+msgid "Please update your WordPress %1$s time Zone%2$s before making a maintenance schedule "
+msgstr "Update je WordPress %1$s tijdzone%2$s voordat je een onderhoud tijdschema maakt "
+
+#: classes/customizer.php:490
+msgid "Google Analytics Tracking Code here."
+msgstr "Google Analytics tracking code hier."
+
+#: classes/customizer.php:470 classes/customizer.php:485
+msgid "Google Analytics Tracking Code"
+msgstr "Google Analytics tracking code"
+
+#: classes/customizer.php:437
+msgid "SEO Configuration"
+msgstr "SEO configuratie"
+
+#: classes/customizer.php:431
+msgid "SEO Keywords:"
+msgstr "SEO keywords:"
+
+#: classes/customizer.php:430
+msgid "SEO Author Name:"
+msgstr "SEO auteursnaam:"
+
+#: classes/customizer.php:429
+msgid "SEO Site Name:"
+msgstr "SEO sitenaam:"
+
+#: classes/customizer.php:428
+msgid "SEO URL:"
+msgstr "SEO URL:"
+
+#: classes/customizer.php:427
+msgid "SEO Description:"
+msgstr "SEO beschrijving:"
+
+#: classes/customizer.php:426
+msgid "SEO Title:"
+msgstr "SEO titel:"
+
+#: classes/customizer.php:413
+msgid "You can add your custom CSS here."
+msgstr "Je kunt hier je aangepaste CSS plaatsen."
+
+#: classes/customizer.php:409
+msgid "Customize CSS"
+msgstr "Pas CSS aan"
+
+#: classes/customizer.php:394
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: classes/customizer.php:382
+msgid "https://www."
+msgstr "https://www."
+
+#: classes/customizer.php:359
+msgid "Add Social Accounts"
+msgstr "Sociale accounts toevoegen"
+
+#: classes/customizer.php:353
+msgid "Codepen Link:"
+msgstr "Codepen Link:"
+
+#: classes/customizer.php:352
+msgid "Pinterest Link:"
+msgstr "Pinterest Link:"
+
+#: classes/customizer.php:351
+msgid "Instagram Link:"
+msgstr "Instagram Link:"
+
+#: classes/customizer.php:350
+msgid "YouTube Link:"
+msgstr "YouTube Link:"
+
+#: classes/customizer.php:349
+msgid "Google Plus Link:"
+msgstr "Google Plus Link:"
+
+#: classes/customizer.php:348
+msgid "Linkedin Link:"
+msgstr "LinkedIn Link:"
+
+#: classes/customizer.php:347
+msgid "Twitter Link:"
+msgstr "Twitter Link:"
+
+#: classes/customizer.php:346
+msgid "Facebook Link:"
+msgstr "Facebook Link:"
+
+#: classes/customizer.php:330
+msgid "Please help other learn about this free plugin by placing a small link in the footer. Thank you very much!"
+msgstr "Help anderen om meer te weten te komen over deze gratis plugin door een kleine link in de footer te plaatsen. Hartelijk dank!"
+
+#: classes/customizer.php:314
+msgid "Show Some Love"
+msgstr "Toon wat liefde"
+
+#: classes/customizer.php:302
+msgid "Subheading Text Color:"
+msgstr "Subkoptekst tekstkleur:"
+
+#: classes/customizer.php:273
+msgid "Header Text Color:"
+msgstr "Header tekstkleur:"
+
+#: classes/customizer.php:287
+msgid "Subheading Text"
+msgstr "Subkoptekst tekst"
+
+#: classes/customizer.php:256
+msgid "Header Text"
+msgstr "Header tekst"
+
+#: classes/customizer.php:241
+msgid "Text Section"
+msgstr "Tekst sectie"
+
+#: classes/customizer.php:221
+msgid "Background Position:"
+msgstr "Achtergrond positie:"
+
+#: classes/customizer.php:196
+msgid "Background Repeat:"
+msgstr "Achtergrond herhalen:"
+
+#: classes/customizer.php:172
+msgid "Background Image Size:"
+msgstr "Achtergrond afbeelding grootte:"
+
+#: classes/customizer.php:154
+msgid "Background Image:"
+msgstr "Achtergrondafbeelding:"
+
+#: classes/customizer.php:139
+msgid "Background"
+msgstr "Achtergrond"
+
+#: classes/customizer.php:112
+msgid "Logo Hover Title:"
+msgstr "Logo hover titel:"
+
+#: classes/customizer.php:111
+msgid "Logo URL:"
+msgstr "Logo URL:"
+
+#: classes/customizer.php:110
+msgid "Padding Bottom:"
+msgstr "Padding onderkant:"
+
+#: classes/customizer.php:109
+msgid "Logo Height:"
+msgstr "Logo hoogte:"
+
+#: classes/customizer.php:108
+msgid "Logo Width:"
+msgstr "Logo breedte:"
+
+#: classes/customizer.php:98
+msgid "Logo Image:"
+msgstr "Logo afbeelding:"
+
+#: classes/customizer.php:83
+msgid "Customize Your Logo"
+msgstr "Pas je logo aan"
+
+#: classes/customizer.php:82
+msgid "Logo"
+msgstr "Logo"
+
+#: classes/customizer.php:72
+msgid "Customize Your WordPress Under Construction Page :)"
+msgstr "Pas je WordPress onder constructie pagina aan :)"
+
+#: classes/ucmm-wpbrigade-setup.php:36 classes/customizer.php:71
+msgid "Under Construction"
+msgstr "Onder constructie"
+
+#: includes/deactivate_modal.php:166
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: includes/deactivate_modal.php:161
+msgid "Anonymous feedback"
+msgstr "Anonieme feedback"
+
+#: includes/deactivate_modal.php:156
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Vertel ons de reden, zodat we kunnen verbeteren."
+
+#: includes/deactivate_modal.php:153
+msgid "Other"
+msgstr "Andere"
+
+#: includes/deactivate_modal.php:144
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Het is een tijdelijke deactivering. Ik debug gewoon een probleem."
+
+#: includes/deactivate_modal.php:135
+msgid "I no longer need the plugin"
+msgstr "Ik heb de plugin niet meer nodig"
+
+#: includes/deactivate_modal.php:126
+msgid "The plugin suddenly stopped working"
+msgstr "De plugin stopte plotseling met werken"
+
+#: includes/deactivate_modal.php:117
+msgid "The plugin broke my site"
+msgstr "De plugin heeft mijn site kapot gemaakt"
+
+#: includes/deactivate_modal.php:110
+msgid "Kindly write down the plugin name."
+msgstr "Vertel ons de naam van de plugin."
+
+#: includes/deactivate_modal.php:107
+msgid "I found a better plugin"
+msgstr "Ik heb een betere plugin gevonden"
+
+#: includes/deactivate_modal.php:98
+msgid "I only needed the plugin for a short period"
+msgstr "Ik had de plugin slechts voor een korte periode nodig"
+
+#: includes/deactivate_modal.php:91
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Als je een momentje hebt, laat ons dan weten waarom je de plugin deactiveert:"
+
+#: includes/deactivate_modal.php:88
+msgid "Quick feedback"
+msgstr "Snelle feedback"
+
+#: ucmm-customize.php:363
+msgid "Maintenance schedule has been expired. Please update the time or turn if off. "
+msgstr "Het onderhoud tijdschema is afgelopen. Update de tijd of schakel het uit. "
+
+#: ucmm-customize.php:361
+msgid "Website is now LIVE! will be redirected to homepage shortly. If not, please refresh the page."
+msgstr "De site is nu live! Je wordt zo meteen doorgestuurd naar de homepage. Mocht dat niet gebeuren, ververs dan even de pagina."
+
+#: ucmm-customize.php:313
+msgid "Powered by:"
+msgstr "Aangedreven door:"
+
+#: classes/customizer.php:279 ucmm-customize.php:256
+msgid "We are working hard to bring you new experience!"
+msgstr "We werken er hard aan om nieuwe functies voor je te maken!"
+
+#: classes/customizer.php:248 ucmm-customize.php:247
+msgid "UNDER CONSTRUCTION"
+msgstr "ONDER CONSTRUCTIE"
+
+#. Author URI of the plugin
+msgid "https://www.WPBrigade.com/"
+msgstr "https://www.WPBrigade.com/"
+
+#. Author of the plugin
+msgid "WPBrigade"
+msgstr "WPBrigade"
+
+#. Description of the plugin
+msgid "This plugin will Display an Under Construction, Maintenance Mode or Coming Soon landing Page that takes 5 seconds to setup, while you're doing maintenance work on your site."
+msgstr "Deze plugin laat een Onder Constructie, onderhoudsmodus of Binnenkort Verwacht landingspagina zien, die je in 5 seconden kunt opzetten, terwijl jij zelf onderhoud doet op je site."
+
+#. Plugin URI of the plugin
+msgid "https://wpbrigade.com/wordpress/plugins/under-construction-maintenance-mode/"
+msgstr "https://wpbrigade.com/wordpress/plugins/under-construction-maintenance-mode/"
+
+#. Plugin Name of the plugin
+msgid "Under Construction & Maintenance Mode"
+msgstr "Under Construction & Maintenance Mode"

@@ -1,0 +1,57 @@
+# Translation of Plugins - SendWP - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - SendWP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-02 15:13:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - SendWP - Stable (latest release)\n"
+
+#: includes/admin/load.php:12
+msgid "Loading"
+msgstr "Laden"
+
+#: includes/admin/load.php:11
+msgid "SendWP is currently disabled and NOT sending email."
+msgstr "SendWP is momenteel uitgeschakeld en verzendt GEEN e-mail."
+
+#: includes/admin/load.php:10
+msgid "SendWP is currently enabled and sending email."
+msgstr "SendWP is momenteel ingeschakeld en verzendt e-mail."
+
+#: includes/admin/views/menu.html.php:19
+msgid "Connect to SendWP"
+msgstr "Verbinding maken met SendWP"
+
+#: includes/admin/views/menu.html.php:12
+msgid "Your site is currently not connected to sendwp.com."
+msgstr "Je site is momenteel niet verbonden met sendwp.com."
+
+#: includes/admin/views/disabled-notice.html.php:4
+msgid "The SendWP plugin is installed, but the service is currently disabled or disconnected on this site. %sConnect or register.%s"
+msgstr "De SendWP plugin is geïnstalleerd, maar de dienst is momenteel uitgeschakeld of is verbroken op deze site. %sMaak verbinding of registreer.%s"
+
+#: includes/admin/views/disabled-notice.html.php:3
+msgid "Attention:"
+msgstr "Opgelet:"
+
+#: includes/templates/php-version.html.php:6
+msgid "Please contact your host and request that your version be upgraded to 5.6 or later."
+msgstr "Neem contact op met je host en vraag om een upgrade van je versie naar 5.6 of hoger."
+
+#: includes/templates/php-version.html.php:3
+msgid "Your version of PHP is below the minimum version of PHP required by SendWP."
+msgstr "Je versie van PHP is lager dan de minimumversie van PHP vereist door SendWP."
+
+#. Description of the plugin
+msgid "The easy solution to transactional email in WordPress."
+msgstr "De gemakkelijke oplossing voor transactionele e-mail in WordPress."
+
+#. Plugin Name of the plugin
+#: includes/admin/load.php:4
+msgid "SendWP"
+msgstr "SendWP"
